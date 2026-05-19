@@ -1,4 +1,4 @@
-# Hi, I'm Javier Gutierrez 👋
+# Hi, I'm Javier Gutierrez
 
 Systems Engineering student, freelance developer, and AI enthusiast building real-world software.
 

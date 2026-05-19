@@ -1,7 +1,7 @@
 # Hi, I'm Javier Gutierrez
 
 Full Stack Developer · Systems Engineering Student · AWS Cloud · AI Enthusiast  
-📍 Bogotá D.C., Colombia
+- Bogotá D.C., Colombia
 
 ---
 
@@ -9,9 +9,9 @@ Full Stack Developer · Systems Engineering Student · AWS Cloud · AI Enthusias
 
 6th-semester Systems Engineering student at Universidad Central (graduating Jul 2026), with hands-on experience in full-stack development, cloud fundamentals, and software architecture. Passionate about process automation, scalable system design, and applying AI to real-world problems.
 
-- 🏆 3rd place — Hackathon Avanza Tech 2025 (climate automation system with real-time data)
-- ☁️ AWS Cloud Foundations certified (Nequi / AWS Entrena Colombia, 2026)
-- 💼 1 year of professional experience as a Web Developer at LoginSumos
+- 3rd place — Hackathon Avanza Tech 2025 (climate automation system with real-time data)
+- AWS Cloud Foundations certified (Nequi / AWS Entrena Colombia, 2026)
+- 1 year of professional experience as a Web Developer at LoginSumos
 
 ---
 
